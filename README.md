@@ -11,4 +11,4 @@ To create new balls, you have to open the developer tools in your browser and ty
 The project still has some points to improve, for example some balls will stick to each other when
 
 ## Link to the page
-https://luistc92.github.io/Bonus-ball
+https://luistc92.github.io/Bonus-ball/
